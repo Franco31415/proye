@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+h5{
+  color: #282c34;
+}
+p{
+  color: #282c34;
+}
+.tex{
+  text-align: left;
+}
+.caja{
+  width: 48%;
+  margin-left: 5%;
+}
+.caja2{
+  
+  width: 40%;
+  height: 500px;
+  margin-left: 55%;
+  margin-top: -42%;
+}
+.cabajo{
+  background-color: rgb(211, 209, 209);
+  margin-top: 2%;
+  height: 90px;
+}
+.mar{
+  margin-left: 2%;
+}
+.tab{
+   margin-left: 45%;
+}
+.prod{
+  width: 350px;
+  height: 350px;
+}
+.tabla{
+  margin-left: 1%;
+}
+.cajaC{
+  width: 50%;
+}
+.du{
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
